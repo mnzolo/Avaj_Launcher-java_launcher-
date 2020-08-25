@@ -54,6 +54,9 @@ class ReadingWriting {
     int checkNumber(String line, int lineNumber) {
         try {
             int number = Integer.valueOf(line);
+	    if(number < 0){
+		    number *= -1;
+	    }
             return number;
         } catch (Exception e) {
             System.out.println("You have entered an invalid number in line " + lineNumber + ".");
