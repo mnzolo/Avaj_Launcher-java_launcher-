@@ -3,7 +3,7 @@ package javaLauncher;
 import java.util.ArrayList;
 
 class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileReadingException {
         ArrayList<Flyable> aircrafts;
         WeatherTower weatherTower = new WeatherTower();
         int aircraftscounter = 0;

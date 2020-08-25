@@ -1,5 +1,4 @@
 package javaLauncher;
-
 import java.io.*;
 import java.util.ArrayList;
 
@@ -14,7 +13,7 @@ class ReadingWriting {
         this.absolutePath = scenario;
     }
 
-    ArrayList<Flyable> AircraftArray() {
+    ArrayList<Flyable> AircraftArray() throws FileReadingException {
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(this.absolutePath))) {
             String line = bufferedReader.readLine();
             int lineNumber = 1;
@@ -42,11 +41,10 @@ class ReadingWriting {
                 lineNumber++;
             }
         } catch (FileNotFoundException e) {
-            System.out.println("The file specified cannot be found");
-            System.exit(0);
+            throw new FileReadingException("The file specified cannot be found", e);
         } catch (IOException e) {
             System.out.println(e);
-           System.exit(0);
+            System.exit(0);
         }
         return aircrafts;
     }
@@ -54,9 +52,9 @@ class ReadingWriting {
     int checkNumber(String line, int lineNumber) {
         try {
             int number = Integer.valueOf(line);
-	    if(number < 0){
-		    number *= -1;
-	    }
+            if(number < 0){
+                number *= -1;
+            }
             return number;
         } catch (Exception e) {
             System.out.println("You have entered an invalid number in line " + lineNumber + ".");
