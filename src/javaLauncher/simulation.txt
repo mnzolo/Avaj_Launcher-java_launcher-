@@ -1,0 +1,210 @@
+Tower says: Baloon#B1(0) was registered to weather tower.
+Tower says: Baloon#B2(1) was registered to weather tower.
+Tower says: JetPlane#J1(2) was registered to weather tower.
+Tower says: Helicopter#H1(3) was registered to weather tower.
+Tower says: Helicopter#H2(4) was registered to weather tower.
+Tower says: Helicopter#H3(5) was registered to weather tower.
+Tower says: Baloon#B3(6) was registered to weather tower.
+Tower says: JetPlane#J2(7) was registered to weather tower.
+Tower says: Helicopter#H4(8) was registered to weather tower.
+Baloon#B1(0): Landing.
+Tower says: Baloon#B1(0) unregistered from weather tower.
+JetPlane#J1(2): Passing through these clear skies like I am iron man.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): My blades are free as any other metal.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): Passing through these clear skies like I am iron man.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): My blades are free as any other metal.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): These rain drops want to kill my engine.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): Passing through these clear skies like I am iron man.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): My blades are free as any other metal.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): These rain drops want to kill my engine.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): Passing through these clear skies like I am iron man.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): My blades are free as any other metal.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): These rain drops want to kill my engine.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): Passing through these clear skies like I am iron man.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): My blades are free as any other metal.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): These rain drops want to kill my engine.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): This rain is about to get us an early landind.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): My wings are getting slippery.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): Passing threw this steam is surely not refreshing.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): These rain drops are getting in our way.
+JetPlane#J1(2): My wings are getting slippery.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): Passing threw this steam is surely not refreshing.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): My wings are getting slippery.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): Passing threw this steam is surely not refreshing.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): My wings are getting slippery.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): Passing threw this steam is surely not refreshing.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): These rain drops are getting in our way.
+JetPlane#J1(2): My wings are getting slippery.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): Passing threw this steam is surely not refreshing.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): These rain drops are getting in our way.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
+Baloon#B2(1): It is time to fly to the beach.
+JetPlane#J1(2): My wings are getting slippery.
+Helicopter#H1(3): Passing threw this steam is surely not refreshing.
+Helicopter#H2(4): Passing threw this steam is surely not refreshing.
+Helicopter#H3(5): Passing threw this steam is surely not refreshing.
+Baloon#B3(6): It is time to fly to the beach.
+JetPlane#J2(7): My wings are getting slippery.
+Helicopter#H4(8): Passing threw this steam is surely not refreshing.
